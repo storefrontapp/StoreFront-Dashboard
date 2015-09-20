@@ -1,5 +1,10 @@
 ###################
-What is CodeIgniter
+StoreFront Sample Dashboard for StoreFront iOS
+###################
+
+
+###################
+CodeIgniter 
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
@@ -64,6 +69,3 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 ***************
 Acknowledgement
 ***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
