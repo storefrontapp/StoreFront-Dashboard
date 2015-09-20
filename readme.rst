@@ -1,7 +1,7 @@
 ###################
 StoreFront Sample Dashboard for StoreFront iOS
 ###################
-
+A basic version of the StoreFront dashboard
 
 ###################
 CodeIgniter 
