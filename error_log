@@ -1,0 +1,1 @@
+[08-May-2015 20:48:39 UTC] PHP Fatal error:  Call to a member function checkUser() on a non-object in /home/experts/public_html/demo/travelocity/application/controllers/Dashboard.php on line 10
